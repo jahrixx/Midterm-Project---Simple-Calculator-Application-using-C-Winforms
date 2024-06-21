@@ -1,0 +1,17 @@
+C:\Users\janroe\source\repos\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.exe
+C:\Users\janroe\source\repos\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.deps.json
+C:\Users\janroe\source\repos\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.runtimeconfig.json
+C:\Users\janroe\source\repos\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.dll
+C:\Users\janroe\source\repos\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.pdb
+C:\Users\janroe\source\repos\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.Form1.resources
+C:\Users\janroe\source\repos\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.Properties.Resources.resources
+C:\Users\janroe\source\repos\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.csproj.GenerateResource.cache
+C:\Users\janroe\source\repos\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janroe\source\repos\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.AssemblyInfoInputs.cache
+C:\Users\janroe\source\repos\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.AssemblyInfo.cs
+C:\Users\janroe\source\repos\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\janroe\source\repos\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.dll
+C:\Users\janroe\source\repos\MyCalculator\obj\Debug\net8.0-windows\refint\MyCalculator.dll
+C:\Users\janroe\source\repos\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.pdb
+C:\Users\janroe\source\repos\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.genruntimeconfig.cache
+C:\Users\janroe\source\repos\MyCalculator\obj\Debug\net8.0-windows\ref\MyCalculator.dll
